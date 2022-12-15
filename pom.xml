@@ -19,6 +19,7 @@
   <modules>
     <module>webmvc-project</module>
     <module>migration</module>
+    <module>webmvc-project/search</module>
   </modules>
 
 </project>
