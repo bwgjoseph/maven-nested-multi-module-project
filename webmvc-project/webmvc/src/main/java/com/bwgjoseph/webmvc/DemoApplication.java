@@ -10,6 +10,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
         Profile profile = Profile.builder().build();
+        // Migration migration = new Migration();
 		SpringApplication.run(DemoApplication.class, args);
 	}
 

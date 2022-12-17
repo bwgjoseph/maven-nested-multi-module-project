@@ -20,6 +20,7 @@
     <module>webmvc-project</module>
     <module>migration</module>
     <module>webmvc-project/search</module>
+    <module>depends-on-migration</module>
   </modules>
 
 </project>

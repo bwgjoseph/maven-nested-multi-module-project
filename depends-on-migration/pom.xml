@@ -9,18 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bwgjoseph</groupId>
-	<artifactId>webmvc</artifactId>
+	<artifactId>depends-on-migration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-webmvc</name>
-	<description>spring-boot-webmvc</description>
+	<name>depends-on-migration</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-validation</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -29,11 +25,6 @@
       <groupId>com.bwgjoseph</groupId>
       <artifactId>migration</artifactId>
       <version>${project.version}</version>
-  </dependency>
-    <dependency>
-        <groupId>com.bwgjoseph</groupId>
-        <artifactId>spring-boot-webmvc-model</artifactId>
-        <version>${project.version}</version>
     </dependency>
 
 		<dependency>
