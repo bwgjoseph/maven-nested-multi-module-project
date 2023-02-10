@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bwgjoseph</groupId>
-	<artifactId>depends-on-migration</artifactId>
+	<artifactId>spring-boot-depends-on-migration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>depends-on-migration</name>
+	<name>spring-boot-depends-on-migration</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
@@ -23,7 +23,7 @@
 		</dependency>
     <dependency>
       <groupId>com.bwgjoseph</groupId>
-      <artifactId>migration</artifactId>
+      <artifactId>spring-boot-migration</artifactId>
       <version>${project.version}</version>
     </dependency>
 

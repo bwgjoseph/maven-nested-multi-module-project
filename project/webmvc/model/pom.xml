@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.bwgjoseph</groupId>
-    <artifactId>spring-boot-webmvc-project</artifactId>
+    <artifactId>spring-boot-project-webmvc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>spring-boot-webmvc-model</artifactId>
+  <artifactId>spring-boot-project-webmvc-model</artifactId>
   <name>spring-boot-webmvc-model</name>
   <description>Spring Boot Maven Starter Project Mvc Model</description>
 

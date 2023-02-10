@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bwgjoseph</groupId>
-  <artifactId>maven-nested-multi-module-project</artifactId>
+  <artifactId>spring-boot-project-webmvc</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>maven-nested-multi-module-project</name>
+  <name>spring-boot-project-webmvc</name>
 
   <properties>
     <!-- Maven -->
@@ -17,10 +17,8 @@
   </properties>
 
   <modules>
-    <module>project</module>
-    <module>migration</module>
-    <module>project/search</module>
-    <module>depends-on-migration</module>
+    <module>core</module>
+    <module>model</module>
   </modules>
 
 </project>

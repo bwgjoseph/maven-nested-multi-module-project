@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bwgjoseph</groupId>
-  <artifactId>spring-boot-webmvc-project</artifactId>
+  <artifactId>spring-boot-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>spring-boot-webmvc-project</name>
+  <name>spring-boot-project</name>
 
   <properties>
     <!-- Maven -->
@@ -18,7 +18,6 @@
 
   <modules>
     <module>webmvc</module>
-    <module>model</module>
   </modules>
 
 </project>
